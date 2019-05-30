@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/davidgoodson/sims_lfs-ah-backend.svg?branch=master)](https://travis-ci.org/davidgoodson/sims_lfs-ah-backend)
-[![Coverage Status](https://coveralls.io/repos/github/davidgoodson/sims_lfs-ah-backend/badge.svg?branch=master)](https://coveralls.io/github/davidgoodson/sims_lfs-ah-backend?branch=master)
+[![Build Status](https://travis-ci.org/davidgoodson/sims_lfs-ah-backend.svg?branch=develop)](https://travis-ci.org/davidgoodson/sims_lfs-ah-backend)
+[![Coverage Status](https://coveralls.io/repos/github/davidgoodson/sims_lfs-ah-backend/badge.svg?branch=develop)](https://coveralls.io/github/davidgoodson/sims_lfs-ah-backend?branch=develop)
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/davidgoodson/sims_lfs-ah-backend)
 
 # Authors Haven - A Social platform for the creative at heart.
