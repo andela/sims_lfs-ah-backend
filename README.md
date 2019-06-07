@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/andela/sims_lfs-ah-backend.svg?branch=develop)](https://travis-ci.org/andela/sims_lfs-ah-backend)
 [![Coverage Status](https://coveralls.io/repos/github/andela/sims_lfs-ah-backend/badge.svg?branch=develop)](https://coveralls.io/github/andela/sims_lfs-ah-backend?branch=develop)
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/andela/sims_lfs-ah-backend?branch=develop)
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 
 # Authors Haven - A Social platform for the creative at heart.
 
