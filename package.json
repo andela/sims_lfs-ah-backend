@@ -4,6 +4,7 @@
   "description": "A Social platform for the creative at heart",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint ./server --fix",
     "start": "nodemon index.js",
     "start-dev": "cross-env NODE_ENV=prod nodemon api.js",
     "test": "cross-env NODE_ENV=test mocha --timeout 5000 __tests__/server/**/*.test.js",
@@ -36,6 +37,9 @@
     "babel-register": "^6.26.0",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3",
     "faker": "^4.1.0",
     "joi": "^14.3.1",
     "mocha": "^6.1.4",
